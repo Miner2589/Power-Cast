@@ -3,19 +3,31 @@
 Power Cast is a web server tool designed for beginers and vintage website hosting
 
 **Mimimum Requirements**
+
 .NET 4.5 Runtime
+
 Windows Vista SP2
+
 1GB RAM
+
 1.2GHZ CPU CLOCK SPEED
+
 15MB FREE STORAGE
+
 PORT FORWARDING
 
-**Minimum Requirements(.NET CORE EDITIOM)**
+**Minimum Requirements(.NET CORE EDITIOM)** 
+
 .NET CORE 9.0 Runtime
+
 Windows 7
+
 3GB RAM
+
 2.0GHZ CPU CLOCK SPEED
+
 100MB FREE STORAGE
+
 PORT FORWARDING
 
 ------------------------------------------------------------------------------------
