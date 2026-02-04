@@ -36,11 +36,11 @@ namespace Power_Cast
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label7 = new System.Windows.Forms.Label();
             this.pictureBox6 = new System.Windows.Forms.PictureBox();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -51,7 +51,7 @@ namespace Power_Cast
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(268, 20);
             this.label1.TabIndex = 1;
-            this.label1.Text = "Power Cast Server Version 1.1.2";
+            this.label1.Text = "Power Cast Server Version 2.0.1";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
@@ -70,9 +70,9 @@ namespace Power_Cast
             this.label3.Font = new System.Drawing.Font("Arial", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(17, 139);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(258, 17);
+            this.label3.Size = new System.Drawing.Size(259, 17);
             this.label3.TabIndex = 3;
-            this.label3.Text = "This Version Published: 11th April 2025";
+            this.label3.Text = "This Version Published: 15th April 2025";
             // 
             // label4
             // 
@@ -104,6 +104,26 @@ namespace Power_Cast
             this.label6.TabIndex = 6;
             this.label6.Text = "HTML version 1.1";
             // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.BackColor = System.Drawing.Color.White;
+            this.label7.Font = new System.Drawing.Font("Arial Black", 18F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.Location = new System.Drawing.Point(287, 57);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(98, 33);
+            this.label7.TabIndex = 21;
+            this.label7.Text = "V2.0.1";
+            // 
+            // pictureBox6
+            // 
+            this.pictureBox6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pictureBox6.Location = new System.Drawing.Point(-1, 88);
+            this.pictureBox6.Name = "pictureBox6";
+            this.pictureBox6.Size = new System.Drawing.Size(429, 288);
+            this.pictureBox6.TabIndex = 23;
+            this.pictureBox6.TabStop = false;
+            // 
             // pictureBox1
             // 
             this.pictureBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
@@ -114,25 +134,6 @@ namespace Power_Cast
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Arial Black", 18F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(287, 57);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(98, 33);
-            this.label7.TabIndex = 21;
-            this.label7.Text = "V1.1.2";
-            // 
-            // pictureBox6
-            // 
-            this.pictureBox6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox6.Location = new System.Drawing.Point(-1, 88);
-            this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.Size = new System.Drawing.Size(429, 288);
-            this.pictureBox6.TabIndex = 23;
-            this.pictureBox6.TabStop = false;
             // 
             // Form2
             // 
@@ -154,8 +155,8 @@ namespace Power_Cast
             this.MinimizeBox = false;
             this.Name = "Form2";
             this.Text = "About";
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
