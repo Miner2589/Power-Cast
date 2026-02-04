@@ -31,6 +31,11 @@ Windows 7
 PORT FORWARDING
 
 ------------------------------------------------------------------------------------
+# Source-Code
+
+Source code is available but is kinda missing bits on the main repo, its better to get the source code from each publish.
+Or you can spend ages trying to peice it together.
+------------------------------------------------------------------------------------
 Power_Cast - Local Web Server Tool
 Copyright (c) 2025 Oliver Stuchbery. All rights reserved.
 
@@ -44,7 +49,7 @@ You are not permitted to reverse engineer, redistribute, or modify this software
 explicit permission from the author.
 
 This software is free to use for personal and educational purposes.
-Commercial use is prohibited without written permission.
+Commercial use is not prohibited.
 
 ---
 Created by Oliver Stuchbery
