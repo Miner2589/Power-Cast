@@ -1,6 +1,6 @@
 # Power-Cast
 
-Power Cast is a web server tool designed for beginers and vintage website hosting
+Power Cast is a web server tool designed for beginers to host their own website.
 
 **Mimimum Requirements**
 
