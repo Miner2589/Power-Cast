@@ -13,6 +13,10 @@ Power Cast is a web server tool designed for beginers to host their own website.
    basic knowledge of how sites work is reccomended. You can use Microsoft word to create a web page file or you can hand code it.
 6. you now have your own server, enjoy!
 
+<img width="833" height="725" alt="image" src="https://github.com/user-attachments/assets/ec0dd334-a6fa-43db-9250-505f93acd717" />
+<img width="811" height="513" alt="image" src="https://github.com/user-attachments/assets/cf370b5b-71a2-4964-a2f2-afbb908c36dc" />
+<img width="596" height="399" alt="image" src="https://github.com/user-attachments/assets/90a31da2-a352-40a9-87fa-3d8a1de5df91" />
+
 ------------------------------------------------------------------------------------
 
 **Mimimum Requirements**
